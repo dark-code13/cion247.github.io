@@ -2,7 +2,7 @@
 ## _First choose your profession:_
 ## Web Development: 
 > This involves the development of websites, web applications, and e-commerce platforms. Resources for web development include:
-basics:- HTML, CSS, and JavaScript:
+basics:- HTML, CSS, and JavaScript: https://youtu.be/ysEN5RaKOlA
 
 1. HTML: ✨ https://youtu.be/qz0aGYrrlhU  ✨  
 2. CSS:    ✨ https://youtu.be/G3e-cpL7ofc  ✨ 
