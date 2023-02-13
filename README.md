@@ -1,4 +1,4 @@
-# IUT coding club
+# welcome
 ## _First choose your profession:_
 ## Web Development: 
 > This involves the development of websites, web applications, and e-commerce platforms. Resources for web development include:
