@@ -1,18 +1,21 @@
+# IUT coding club
 ## _First choose your profession:_
 ## Web Development: 
 > This involves the development of websites, web applications, and e-commerce platforms. Resources for web development include:
-HTML, CSS, and JavaScript:
+basics:- HTML, CSS, and JavaScript:
 
-1. HTML: ✨ https://youtu.be/qz0aGYrrlhU  .✨  
-2. CSS:    ✨ https://youtu.be/G3e-cpL7ofc  .✨ 
-3. JS:    ✨ https://youtu.be/W6NZfCO5SIk.✨ 
+1. HTML: ✨ https://youtu.be/qz0aGYrrlhU  ✨  
+2. CSS:    ✨ https://youtu.be/G3e-cpL7ofc  ✨ 
+3. JS:    ✨ https://youtu.be/W6NZfCO5SIk ✨ 
 
-React, Angular, Vue.js
-Ruby on Rails, Django, Flask
+> JS Frame works:- React, Angular, Vue.js
+choose one frame work to master and move with it -
+
+> Ruby on Rails, Django, Flask
 WordPress, Shopify
 
 
-##### Mobile App Development: 
+## Mobile App Development: 
 > This involves the development of apps for mobile devices such as smartphones and tablets. Resources for mobile app development include:
 
 - Swift, Objective-C (for iOS)
@@ -43,3 +46,4 @@ WordPress, Shopify
 - Git, Jenkins, TravisCI
 - Docker, Kubernetes
 - Infrastructure as Code tools (such as Terraform, Ansible)
+---------------------------------------------------------
