@@ -1,5 +1,4 @@
-# welcome
-## _First choose your profession:_
+## _First choose your desired profession:_
 ## Web Development: 
 > This involves the development of websites, web applications, and e-commerce platforms. Resources for web development include:
 basics:- HTML, CSS, and JavaScript: https://youtu.be/ysEN5RaKOlA
