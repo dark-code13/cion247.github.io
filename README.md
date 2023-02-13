@@ -1,8 +1,8 @@
-# IUT coding club
 ## _First choose your profession:_
 ## Web Development: 
 > This involves the development of websites, web applications, and e-commerce platforms. Resources for web development include:
 HTML, CSS, and JavaScript:
+
 1. HTML: ✨ https://youtu.be/qz0aGYrrlhU  .✨  
 2. CSS:    ✨ https://youtu.be/G3e-cpL7ofc  .✨ 
 3. JS:    ✨ https://youtu.be/W6NZfCO5SIk.✨ 
