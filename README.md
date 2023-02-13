@@ -6,8 +6,11 @@ Some of the sources needed to learn are given bellow:
 Web Development: This involves the development of websites, web applications, and e-commerce platforms. Resources for web development include:
 
 HTML, CSS, and JavaScript:
+
 [HTML:](https://youtu.be/qz0aGYrrlhU).
+
 [CSS:](https://youtu.be/G3e-cpL7ofc).
+
 [JS:](https://youtu.be/W6NZfCO5SIk).
 
 React, Angular, Vue.js
