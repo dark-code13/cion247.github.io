@@ -4,33 +4,39 @@
 > This involves the development of websites, web applications, and e-commerce platforms. 
 Web development road map : https://youtu.be/ysEN5RaKOlA
 
- basic front end:
+## basic front end:
+ 
 1. HTML: ✨ https://youtu.be/qz0aGYrrlhU  ✨  
 2. CSS:   ✨ https://youtu.be/G3e-cpL7ofc  ✨ 
 3. JS:   ✨ https://youtu.be/W6NZfCO5SIk ✨ 
+|
 4. Package Managers  -  ✨ https://youtu.be/P3aKRdUyr0s ✨ 
 5. Learn Webpack -  ✨ https://youtu.be/MpGLUVbqoYQ ✨ 
+|
 6. Learn Git - ✨ https://youtu.be/8Dd7KRpKeaE✨ 
-
-
-# additional front end
-- TAILWIND, it is a CSS framework to make beautiful responsive websites: 
+|
+## additional front end
+1. TAILWIND, it is a CSS framework to make beautiful responsive websites: 
  https://youtu.be/ft30zcMlFao add post css https://youtu.be/Kn2SKUOaoT4
-- REACT, a JS framework which will make it easier to build a modern dynamic website 
+|
+2. REACT, a JS framework which will make it easier to build a modern dynamic website 
  https://youtu.be/bMknfKXIFA8
 
+https://youtu.be/bMknfKXIFA8
 
 ## back end
-- PHP : https://youtu.be/BUCiSSyIGGU 
-- nodeJS : https://youtu.be/TlB_eWDSMt4
-- MySQL : https://youtu.be/7S_tz1z_5bA , https://youtu.be/Cz3WcZLRaWc
-- Mongo DB : https://youtu.be/ofme2o29ngU
+1. PHP : https://youtu.be/BUCiSSyIGGU 
+2. nodeJS : https://youtu.be/TlB_eWDSMt4
+|
+3. MySQL : https://youtu.be/7S_tz1z_5bA ,
+    https://youtu.be/Cz3WcZLRaWc
+4. Mongo DB : https://youtu.be/ofme2o29ngU
 
 ## projects
-- https://www.youtube.com/live/JnEH9tYLxLk?feature=share
-- https://www.youtube.com/watch?v=rJjaqSTzOxI
-- https://youtu.be/K8YELRmUb5o
--  https://youtu.be/EyIvuigqDoA
+- socialmedia clone easy basics intro : https://www.youtube.com/live/JnEH9tYLxLk?feature=share
+- Twitter clone with react :https://www.youtube.com/watch?v=rJjaqSTzOxI
+- MERN stack : https://youtu.be/K8YELRmUb5o
+-  MERN AI Image Generation App: https://youtu.be/EyIvuigqDoA
 
 ## Mobile App Development: 
 > This involves the development of apps for mobile devices such as smartphones and tablets. Resources for mobile app development include:
